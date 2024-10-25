@@ -1,0 +1,26 @@
+# Inputs
+set_io -nowarn -pullup 1 a[0] 36   # Pin for a(1)
+set_io -nowarn -pullup 1 a[1] 42   # Pin for a(1)
+set_io -nowarn -pullup 1 a[2] 38   # Pin for a(2)
+set_io -nowarn -pullup 1 a[3] 28   # Pin for a(3)
+
+set_io -nowarn -pullup 1 b[0] 31   # Pin for b(0)
+set_io -nowarn -pullup 1 b[1] 37   # Pin for b(1)
+set_io -nowarn -pullup 1 b[2] 34   # Pin for b(2)
+set_io -nowarn -pullup 1 b[3] 43   # Pin for b(3)
+
+set_io -nowarn -pullup 1 s[0] 46   # Pin for s(0)
+set_io -nowarn -pullup 1 s[1] 2    # Pin for s(1)
+       
+# Outputs
+set_io -nowarn anodes[0] 48      # Pin for anodes(0)
+set_io -nowarn anodes[1] 45      # Pin for anodes(1)
+
+set_io -nowarn segments[0] 19    # Pin for segments(0)
+set_io -nowarn segments[1] 18    # Pin for segments(1)
+set_io -nowarn segments[2] 11    # Pin for segments(2)
+set_io -nowarn segments[3] 9     # Pin for segments(3)
+set_io -nowarn segments[4] 6     # Pin for segments(4)
+set_io -nowarn segments[5] 44    # Pin for segments(5)
+set_io -nowarn segments[6] 4     # Pin for segments(6)
+
