@@ -1,6 +1,8 @@
 ## build.sh
 Alex Lea
 
+Requires oss-cad-suite.
+
 I have made some very minor modifications to the build script made by Lucas Polidori.
 
 Here are the requirements for one to use this script:
